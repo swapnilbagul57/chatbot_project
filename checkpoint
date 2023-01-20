@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/swapnil/PycharmProjects/My_project/model.tflearn"
+all_model_checkpoint_paths: "/home/swapnil/PycharmProjects/My_project/model.tflearn"
